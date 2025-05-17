@@ -11,8 +11,7 @@
       "source": [
         "src/PortHub_frontend/dist"
       ],
-      "type": "assets",
-      "workspace": "PortHub_frontend"
+      "type": "assets"
     },
     "internet_identity": {
       "candid": "https://github.com/dfinity/internet-identity/releases/latest/download/internet_identity.did",
